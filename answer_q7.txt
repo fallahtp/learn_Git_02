@@ -1,0 +1,2 @@
+for repository we use "git diff"
+and for a file we use "git blame (fileName)"
