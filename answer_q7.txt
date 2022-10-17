@@ -4,3 +4,4 @@ and for a file we use "git blame (fileName)"
 
 This line is added to check git blame command
 
+Here is for merge
